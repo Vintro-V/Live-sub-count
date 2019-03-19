@@ -1,7 +1,7 @@
 from tkinter import *
 import json
 import urllib.request
-import time
+#Please don't pretent you made this!
 key = "AIzaSyBvUUkjmIBL2JLDPFpOA6VCVVB0WBaEXCQ"
 a = input("hello please enter username: ")
 root = Tk()
